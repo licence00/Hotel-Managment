@@ -280,7 +280,7 @@ int main()
        }
        else
        {
-        cout<<"F*ck off"<<endl;
+        cout<<"Off"<<endl;
        }
      }
    }
